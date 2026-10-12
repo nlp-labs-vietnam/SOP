@@ -6,6 +6,37 @@
 
 **Năng lượng xanh • Xe điện • Công nghệ • Trí tuệ nhân tạo • Phát triển bền vững**
 
+## Kế hoạch cập nhật nội dung chính thức
+
+**Trạng thái hiện tại:** Tài liệu này là bản nháp nội dung, chưa phải nội dung đã được NLP Group xác nhận để công bố. Chỉ chuyển một nội dung sang bản chính thức sau khi người phụ trách NLP Group xác minh và phê duyệt.
+
+**Phạm vi:** Tài liệu này là nguồn biên tập nội dung website NLP Group. `index.html` hiện là một giao diện TC-Gaming riêng, không phải website NLP Group và không được dùng làm nguồn nội dung hay mẫu trang chủ NLP.
+
+### Nguyên tắc biên tập
+
+* Xác minh tên pháp lý, hồ sơ doanh nghiệp, thương hiệu, đội ngũ, thông tin liên hệ và người phát ngôn trước khi đăng.
+* Phân biệt rõ dịch vụ đang cung cấp, dự án đã triển khai, năng lực đã chứng minh và định hướng tương lai; không viết mục tiêu tương lai như thành tích hiện tại.
+* Chỉ công bố số liệu, chứng nhận, đối tác, dự án, hình ảnh và trích dẫn khi có nguồn kiểm chứng và quyền sử dụng.
+* Rà soát các tuyên bố liên quan đến ESG, Net Zero, tín chỉ carbon, hiệu quả đầu tư và bảo mật với người phụ trách chuyên môn/pháp lý.
+* Dùng tiếng Việt nhất quán, giải thích thuật ngữ chuyên ngành ở lần xuất hiện đầu tiên và chuẩn hóa tên gọi của năm lĩnh vực.
+
+### Lộ trình cập nhật
+
+1. **Chốt dữ kiện và người duyệt:** NLP Group cung cấp hồ sơ pháp lý/thương hiệu, danh sách dịch vụ thực tế, dự án có thể công bố, thông tin lãnh đạo, đối tác được phép nêu tên, thông tin liên hệ và đầu mối phê duyệt.
+2. **Biên tập Trang chủ và Về NLP Group:** Thống nhất một thông điệp định vị; dùng nhất quán năm lĩnh vực NLP Energy, NLP EV Charging, NLP Technology, NLP AI & Digital, NLP ESG & Carbon. Hoàn thiện giới thiệu, tầm nhìn, sứ mệnh, giá trị cốt lõi và thông điệp lãnh đạo dựa trên dữ kiện đã duyệt.
+3. **Biên tập các trang lĩnh vực và giải pháp:** Với từng lĩnh vực, xác nhận khách hàng mục tiêu, vấn đề, phạm vi cung cấp, quy trình, lợi ích có căn cứ và lời kêu gọi liên hệ. Tách rõ dịch vụ hiện có khỏi đề xuất hoặc định hướng phát triển.
+4. **Bổ sung bằng chứng và nội dung vận hành:** Chỉ đưa dự án, đối tác, tin tức, tài liệu tải xuống, tuyển dụng và hồ sơ năng lực lên kế hoạch xuất bản khi đã có nội dung, hình ảnh, quyền sử dụng và người chịu trách nhiệm cập nhật.
+5. **Rà soát trước khi công bố:** Kiểm tra sự nhất quán giữa menu và nội dung; bỏ mục trùng, nội dung giữ chỗ và tuyên bố chưa xác minh; rà soát chính tả, liên kết, biểu mẫu, hiển thị di động, khả năng tiếp cận và thông tin liên hệ.
+
+### Các điểm cần xử lý trong bản nháp
+
+* Xóa phần giới thiệu Trang chủ bị lặp và thống nhất cách trình bày năm lĩnh vực; một đoạn cũ hiện chỉ liệt kê bốn lĩnh vực.
+* Đối chiếu sơ đồ điều hướng với nội dung chi tiết: bổ sung trang/mục còn thiếu theo ưu tiên kinh doanh đã xác nhận, không mặc định mọi mục trong sơ đồ đều đã có dịch vụ tương ứng.
+* Hoàn thiện hoặc gỡ các mục chưa có dữ liệu đã duyệt như thông điệp Chủ tịch, lãnh đạo, cơ cấu tổ chức, giá trị cốt lõi, văn hóa, dự án, đối tác và thông tin liên hệ.
+* Rà soát các diễn đạt mang tính cam kết hoặc khẳng định năng lực; chuyển thành mô tả có căn cứ hoặc đánh dấu chờ xác minh.
+
+**Điều kiện để đánh dấu nội dung là chính thức:** Có người duyệt và nguồn xác nhận cho các dữ kiện; năm lĩnh vực và tên gọi nhất quán; không còn chỗ giữ chỗ hoặc tuyên bố chưa được duyệt; thông tin liên hệ và các đường dẫn/biểu mẫu đã được kiểm tra.
+
 ---
 
 **CẤU TRÚC WEBSITE CHÍNH THỨC NLP GROUP**
