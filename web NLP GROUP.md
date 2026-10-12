@@ -12,6 +12,46 @@
 
 **Phạm vi:** Tài liệu này là nguồn biên tập nội dung website NLP Group. `index.html` hiện là một giao diện TC-Gaming riêng, không phải website NLP Group và không được dùng làm nguồn nội dung hay mẫu trang chủ NLP.
 
+### Kế hoạch kịch bản chăm sóc và điều hướng theo vai trò
+
+**Mục tiêu:** Giúp khách truy cập xác định đúng lĩnh vực, hiểu bước tiếp theo và kết nối đúng đầu mối NLP Group. Trợ lý điều hướng thông tin đã được duyệt; không tự báo giá, cam kết hiệu quả, xác nhận khả năng cung cấp hay thay thế tư vấn chuyên môn.
+
+**Luồng hội thoại đề xuất:**
+
+1. Chào ngắn gọn, hỏi khách muốn tìm hiểu giải pháp, dự án/đối tác, hỗ trợ khách hàng hiện hữu hay cơ hội nghề nghiệp.
+2. Hỏi vai trò hoặc bối cảnh bằng lựa chọn nhanh, luôn cho phép nhập câu hỏi tự do và đổi lựa chọn.
+3. Hỏi tối đa hai thông tin để định tuyến: lĩnh vực quan tâm và quy mô/bối cảnh triển khai. Không yêu cầu dữ liệu nhạy cảm ở bước này.
+4. Tóm tắt nhu cầu bằng một câu, đưa tối đa ba đường dẫn nội dung liên quan trong website.
+5. Đưa ra hành động phù hợp: gửi yêu cầu tư vấn, đề nghị hợp tác, xem dự án đã xác minh, liên hệ hỗ trợ hoặc xem tuyển dụng.
+6. Nếu không hiểu yêu cầu, thông tin chưa có trong tài liệu, hoặc khách muốn gặp người thật, xin phép chuyển tiếp và cho biết kênh/thời gian phản hồi đã được NLP Group xác nhận.
+
+**Nhóm vai trò và hướng điều hướng:**
+
+* **Khách đang tìm hiểu chung:** Hỏi mục tiêu chính; giới thiệu trang Hệ sinh thái và cho chọn một trong năm lĩnh vực. Không ép khách chọn vai trò ngay từ đầu.
+* **Chủ doanh nghiệp/ban điều hành:** Hỏi bài toán ưu tiên (chi phí năng lượng, vận hành, số hóa, AI hay phát triển bền vững); điều hướng đến Giải pháp hoặc lĩnh vực tương ứng; CTA là yêu cầu buổi tư vấn.
+* **Phụ trách cơ sở/năng lượng:** Hỏi loại cơ sở và nhu cầu điện mặt trời, BESS, EMS, EPC hoặc O&M; điều hướng NLP Energy; CTA là gửi yêu cầu khảo sát. Chỉ nêu năng lực, thời gian hoàn vốn hoặc hiệu quả sau khi có dữ kiện được duyệt.
+* **Đơn vị vận hành đội xe/trạm sạc/chủ địa điểm:** Hỏi đang cần trụ sạc, hạ tầng, phần mềm vận hành hay phương án hợp tác địa điểm; điều hướng NLP EV Charging; CTA là trao đổi phương án triển khai.
+* **Phụ trách CNTT/sản phẩm/kỹ thuật:** Hỏi cần phần mềm, tích hợp API, IoT, AI hay tự động hóa; điều hướng NLP Technology hoặc NLP AI & Digital; CTA là mô tả bài toán để chuyên gia liên hệ. Không yêu cầu gửi khóa API, mật khẩu hay dữ liệu nội bộ qua chat.
+* **Phụ trách ESG/nông nghiệp/dự án carbon:** Hỏi mục tiêu là đánh giá ESG, lộ trình Net Zero, MRV, nông nghiệp hay dự án carbon; điều hướng NLP ESG & Carbon; CTA là yêu cầu trao đổi chuyên môn. Không khẳng định dự án đủ điều kiện tạo tín chỉ hoặc cam kết lượng giảm phát thải nếu chưa được thẩm định.
+* **Đối tác/nhà cung cấp/nhà đầu tư/chủ đất:** Hỏi loại hình hợp tác và lĩnh vực liên quan; điều hướng Đối tác hoặc Liên hệ; CTA là gửi đề xuất qua kênh chính thức. Chỉ chia sẻ thông tin dự án và cơ hội đầu tư đã được phép công bố.
+* **Khách hàng hiện hữu cần hỗ trợ:** Hỏi lĩnh vực/dịch vụ và mức độ khẩn cấp; chuyển đến đầu mối hỗ trợ đã xác nhận. Chỉ thu thập thông tin liên hệ tối thiểu và mô tả sự cố; không thu mật khẩu, mã xác thực, khóa truy cập hoặc thông tin thanh toán.
+* **Ứng viên:** Điều hướng Tuyển dụng và các vị trí đang mở đã xác minh; CTA là nộp hồ sơ qua kênh tuyển dụng chính thức.
+
+**Mẫu lời mở đầu:** “Xin chào, NLP Group có thể giúp anh/chị tìm hiểu giải pháp, kết nối về dự án/đối tác hoặc hỗ trợ dịch vụ hiện có. Anh/chị đang quan tâm nội dung nào?” Các lựa chọn gợi ý: “Tìm giải pháp”, “Hợp tác/dự án”, “Đang sử dụng dịch vụ”, “Tuyển dụng”, “Câu hỏi khác”.
+
+**Nguyên tắc chuyển tiếp:** Báo rõ khi câu trả lời chỉ mang tính định hướng; không bịa thông tin còn thiếu. Trước khi gửi yêu cầu, hiển thị dữ liệu sẽ được chuyển, mục đích sử dụng và xin xác nhận đồng ý. Ghi nhận nội dung tối thiểu, có thông báo bảo mật phù hợp, và cung cấp đường lui để liên hệ trực tiếp. Tên nhóm phụ trách, kênh liên hệ và thời gian phản hồi phải được NLP Group xác nhận trước khi đưa vào kịch bản.
+
+**Các bước triển khai:**
+
+1. NLP Group xác nhận nhóm khách hàng ưu tiên, danh mục dịch vụ thực tế, đầu mối tiếp nhận, kênh liên hệ, thời gian phản hồi và nội dung được phép công bố.
+2. Vẽ sơ đồ câu hỏi/rẽ nhánh cho từng vai trò; mỗi nhánh phải có điểm đến trên website, CTA, câu trả lời dự phòng và điều kiện chuyển người thật.
+3. Soạn câu trả lời ngắn theo giọng thương hiệu; chuyên gia lĩnh vực và người phụ trách pháp lý duyệt các nội dung về hiệu quả, đầu tư, ESG, carbon, quyền riêng tư và bảo mật.
+4. Tạo bản thử nghiệm tiếng Việt trước; chỉ bổ sung ngôn ngữ khác khi đã có người chịu trách nhiệm duyệt và duy trì bản dịch.
+5. Kiểm thử trên máy tính/điện thoại với câu hỏi thường gặp, câu hỏi ngoài phạm vi, đổi vai trò, yêu cầu gặp nhân viên, lỗi biểu mẫu và tình huống người dùng không muốn cung cấp dữ liệu.
+6. Theo dõi tỷ lệ tìm được trang phù hợp, hoàn tất CTA, yêu cầu chuyển nhân viên và câu hỏi không trả lời được; rà soát định kỳ để cập nhật nội dung, không dùng chỉ số hội thoại làm bằng chứng cho hiệu quả kinh doanh.
+
+**Điều kiện nghiệm thu kịch bản:** Mỗi vai trò có lời chào, câu hỏi định tuyến, trang đích, CTA và phương án chuyển tiếp; mọi tuyên bố lấy từ nội dung đã duyệt; không có đường cụt; có thể bỏ qua lựa chọn hoặc yêu cầu người thật; biểu mẫu chỉ thu dữ liệu cần thiết và hoạt động trên di động.
+
 ### Nguyên tắc biên tập
 
 * Xác minh tên pháp lý, hồ sơ doanh nghiệp, thương hiệu, đội ngũ, thông tin liên hệ và người phát ngôn trước khi đăng.
